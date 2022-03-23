@@ -1,3 +1,6 @@
+# this script can be used to generate indices for gromacs MD simulation.
+# especially for virtual sites generated for AA/CG simulation
+
 pdb = 'vsite.pdb'
 idx = 'index.ndx'
 with open(pdb,"r") as input:
