@@ -1,3 +1,6 @@
+# This script is useful to convert c6-c12 LJ terms to sigma-epsilon terms
+# This can be very useful to setup hybrid simulation involving two different force fields, for example coarse-grained and atomistic.
+
 import os
 import re
 
