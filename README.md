@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @pandiansokkar
 - 👀 I’m interested in computational chemistry with application to drug design
-- 🌱 I’m currently learning Artificial Intelligence and ML
-- 💞️ I’m looking to collaborate on multiscale modeling and simulation
+- I have developed some scripts to automate the hybrid atomistic and coarse-grained MD simulation using Gromacs program.
+- You may find these codes in this repository and feel free to contact me if you need any help or assistance.
+- This work was done with the help of funding from Department of Science and Technology, India (DST-SERB SRG/2019/002156)
 - 📫 Email: pandian.sokkar@gmail.com
 
 <!---
